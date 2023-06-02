@@ -1,4 +1,4 @@
-# Guestbook with Cloud Code
+# Guestbook with Cloud Code 
 
 The Guestbook sample demonstrates how to deploy a Kubernetes application with a front end service and a back end service using the Cloud Code IDE extension.  
 
